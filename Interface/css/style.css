@@ -1,0 +1,191 @@
+/* CSS Document */
+.Container
+{
+width: 100%;
+min-width:900px;
+min-height:100px;	
+border-style:groove;
+border-width:thin
+padding: 5px;
+background-color: bae14c;
+}
+
+.Header
+{
+width: 100%;
+height: 130px;
+background-image:url(/images/illustrations/banner.jpg);
+background-size:cover;
+}
+
+
+
+.Background
+{
+background-color:#6F0;
+}
+
+.shadow {
+	box-shadow: 10px 10px 10px black;
+	}
+
+
+.btn-cam {
+	color: #943266;
+	transform: translateY(5px);
+	}
+
+
+.pos
+{
+	
+	margin-top: -1%;
+}
+
+.pos2
+{
+
+	top: 360px;
+	left: 5px;
+	padding: 1%;
+}
+
+
+.pos3
+{
+	position: fixed;
+	top: 600px;
+	left: 5px;
+}
+
+.container-pos
+{
+	float: left;
+	padding-left: 10%;
+}
+
+.container-button
+{
+	float: left;
+	padding-bottom: 0.7%;
+	margin-left: -1%;
+	
+}
+
+.container-button2
+{
+	float: left;
+	padding-right: 2%;
+	padding-bottom: 0.8%;
+	margin-left: -1%;
+}
+
+   #logo 
+{
+	
+	height: inherit;
+	position: absolute;
+	margin-left: 1%;
+	/*
+	height: inherit;
+	margin-top: -5px;
+	margin-bottom: -5px;
+	margin-left: -380px;
+	
+	*/
+	
+}
+
+#logo2
+{
+	height:200%;
+	display: block;
+	margin-top: -25%;
+}
+
+.box-icon
+{
+	height: 100%;
+	width: 100%;
+}
+
+
+.subject-logo-pos
+{
+	position:relative;
+	padding: 10px;
+	left: 30px;
+}
+
+.text
+{
+	font-family: Helvetica, Arial, sans-serif;
+	position: absolute;
+	left: 269px;
+	text-align: center;
+	top: 154px;
+	height: 73px;
+	width: 834px;
+	padding-bottom: 10px;
+	padding: 10px;
+	
+	
+}
+
+.text2
+{
+	font-family: Helvetica, Arial, sans-serif;
+	position: absolute;
+	left: 233px;
+	text-align: center;
+	top: 177px;
+	height: 73px;
+	width: 1201px;
+	padding-bottom: 10px;
+	
+}
+.screenshot
+{
+	padding: 10px;
+	height:auto;
+	width: 90%;
+	margin-right:auto;
+}
+
+
+
+.start
+{
+	position: absolute;
+	top: 470px;
+	left: 606px;
+	right: auto;
+	width: 74px;
+}
+
+.start-2
+{
+	position: absolute;
+	top: 357px;
+	left: 760px;
+	right: auto;
+	width: 74px;
+}
+
+section.press button {
+  color: #fff;
+  background-color: #6496c8;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 10px #27496d;
+}
+section.press button:hover,
+section.press button.hover {
+  background-color: #417cb8
+}
+section.press button:active,
+section.press button.active {
+  background-color: #943266;
+  box-shadow: 0 5px #27496d;
+  transform: translateY(5px);
+}

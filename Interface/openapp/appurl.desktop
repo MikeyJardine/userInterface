@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=TerminalURL
+Exec=/home/camaraadmin/bin/open_app.sh %u
+Type=Application
+NoDisplay=true
+Categories=System;
+MimeType=x-scheme-handler/app;

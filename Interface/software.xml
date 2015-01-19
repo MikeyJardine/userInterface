@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resource>
+	<software> 
+		<name>Blinken</name>
+		<category>Games</category>
+		<description>Blinken is based on an electronic game which challenges players to remember sequences of increasing length.</description>
+		<level>Primary Secondary </level>
+
+	</software>
+	
+	<software> 
+		<name>Bluefish Editor</name>
+		<category>Computer-Skills</category>
+		<description>Bluefish is a powerful editor targeted towards programmers and webdevelopers, with many options to write websites, scripts and programming code.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Cantor</name>
+		<category>Computer-Skills</category>
+		<description>Cantor is an application to allow you to you use your favorite mathematical applications from within an elegant KDE-integrated worksheet interface.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Celestia</name>
+		<category>Science</category>
+		<description>Celestia is a free 3D astronomy program.</description>
+		<level>Primary Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Chemtool</name>
+		<category>Science</category>
+		<description>Chemtool is a GTK+ based 2D chemical structure editor for X11. It supports many bond styles, most forms of text needed for chemical typesetting 
+		and splines/arcs/curved arrows.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Childsplay</name>
+		<category>Games</category>
+		<description>Childsplay provides memory activities that are fun to play and at the same time learn sounds, images, letters and numbers; 
+                     activities that train the child to use the mouse and keyboard and pure game activities like puzzles, pong, pacman and billiards.</description>
+        <level>Primary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Dia</name>
+		<category>Computer-Skills</category>
+		<description>Dia is an editor for diagrams, graphs, charts etc.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>GCompris</name>
+		<category>Games</category>
+		<description>GCompris is a large collection of educational games for small children.</description>
+		<level>Primary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Geogebra</name>
+		<category>Numeracy</category>
+		<description>GeoGebra is a dynamic geometry program. You can do constructions with points, vectors, segments, 
+                     lines, conic sections as well as functions and change them dynamically afterwards.</description>
+        <level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Goldendict</name>
+		<category>Literacy</category>
+		<description>GoldenDict is dictionary lookup program that features use of WebKit for an accurate articles' representation, 
+												complete with all formatting, colors, images and links.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kalgebra</name>
+		<category>Numeracy</category>
+		<description>KAlgebra is a algebraic graphing calculator with support for 3D graphing</description>
+		<level>Secondary Third</level>
+		
+	</software>
+
+	<software> 
+		<name>Kalzium</name>
+		<category>Science</category>
+		<description>Kalzium is a full-featured chemistry application for KDE, including a Periodic Table of Elements, 
+							chemical reference, chemical equation solver, and 3D molecule viewer.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+
+	<software> 
+		<name>Kanagram</name>
+		<category>Games</category>
+		<description>Kanagram is a game where a random word is shown with its letters scrambled. To win, 
+							the player must rearrange the letters into the correct order.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+
+	<software> 
+		<name>Kbruch</name>
+		<category>Numeracy</category>
+		<description>KBruch is an aid for learning how to calculate with fractions.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+
+	<software> 
+		<name>Kgeography</name>
+		<category>Science</category>
+		<description>KGeography is an aid for learning about world geography.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+
+	<software> 
+		<name>Khangman</name>
+		<category>Games</category>
+		<description>KHangMan is a Hangman game, aimed towards children aged 6 and above.</description>
+		<level>Primary</level>
+		
+	</software>
+
+	<software> 
+		<name>Kig</name>
+		<category>Numeracy</category>
+		<description>Kig is an application for interactive geometric construction, allowing students to draw 
+		and explore mathematical figures and concepts using the computer.
+		</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+
+	<software> 
+		<name>Klavaro</name>
+		<category>Computer-Skills</category>
+		<description>Klavaro is a simple tutor to teach correct typing, almost independently of language and very flexible regarding to new or unknown keyboard layouts.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+
+	<software> 
+		<name>Klettres</name>
+		<category>Literacy</category>
+		<description>KLettres is an aid for learning how to read and pronounce the alphabet of a foreign language.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kmplot</name>
+		<category>Numeracy</category>
+		<description>KmPlot is a powerful mathematical plotter KDE, capable of plotting multiple functions simultaneously and combining them into new functions.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kolour-paint</name>
+		<category>Art</category>
+		<description>KolourPaint is a simple drawing and image editing application for KDE.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kstars</name>
+		<category>Science</category>
+		<description>KStars is a desktop planetarium for KDE, depicting an accurate graphical simulation of the night sky, from any location on Earth, at any date and time.</description>
+		<level>Primary Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Ktouch</name>
+		<category>Computer-Skills</category>
+		<description>KTouch is an aid for learning how to type with speed and accuracy.  It provides a sample text to type and indicates which fingers should be used for each key.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kturtle</name>
+		<category>Computer-Skills</category>
+		<description>KTurtle is an educational programming environment which uses the TurtleScript programming language to make programming as easy and accessible as possible.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Kwordquiz</name>
+		<category>Literacy</category>
+		<description>KWordQuiz is a general purpose flashcard program, typically used for vocabulary training.</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreCAD</name>
+		<category>Science</category>
+		<description>LibreCAD is an application for computer aided design (CAD) in two dimensions (2D). With LibreCAD you can create technical drawings such 
+			as plans for buildings, interiors, mechanical parts or schematics and diagrams.</description>
+		<level>Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Base</name>
+		<category>Resources</category>
+		<description>LibreOffice Base allows the creation and management of databases, preparation of forms and reports that provide end users 
+					easy access to data. Like Access, it can be used to create small embedded databases that are stored with the document files</description>
+		<level>Secondary Third</level>
+
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Calc</name>
+		<category>Resources</category>
+		<description>A spreadsheet program, similar to Microsoft Excel or Lotus 1-2-3. It has a number of unique features, including a 
+				system which automatically defines series of graphs, based on information available to the user</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Draw</name>
+		<category>Resources</category>
+		<description>A vector graphics editor and diagramming tool similar to Microsoft Visio and comparable in features to early versions of CorelDRAW.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Impress</name>
+		<category>Resources</category>
+		<description>A presentation program resembling Microsoft PowerPoint. Presentations can be exported as SWF files, allowing them to 
+				be viewed on any computer with Adobe Flash installed.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Math</name>
+		<category>Resources</category>
+		<description>An application designed for creating and editing mathematical formulae.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>LibreOffice-Writer</name>
+		<category>Resources</category>
+		<description>A word processor with similar functionality and file support to Microsoft Word or WordPerfect. It has extensive word processing 
+					capabilities, but can also be used as a basic text editor.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Lybniz</name>
+		<category>Numeracy</category>
+		<description>Lybniz is a simple desktop graph plotter. It can currently plot three functions and allows you to navigate the plot.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Marble</name>
+		<category>Science</category>
+		<description>Marble is a generic geographical map widget and framework for KDE applications. The Marble widget shows the earth as a sphere but does not require hardware acceleration. A minimal set of geographical data is included, so it can be used without an internet connection.</description>
+		<level>Primary Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Pairs</name>
+		<category>Games</category>
+		<description>A memory and pairs game</description>
+		<level>Primary Secondary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Parley</name>
+		<category>Literacy</category>
+		<description>Parley is a utility to help train vocabulary when learning a foreign language. It is intended as a replacement for flash cards.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Rocs</name>
+		<category>Science</category>
+		<description>Rocs aims to be a Graph Theory IDE for helping professors to show the results of a graph algorithm and also helping students to do the algorithms.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Scratch</name>
+		<category>Computer-Skills</category>
+		<description>Scratch is an easy, interactive, collaborative programming environment designed for creation of interactive stories, 
+                        animations, games, music, and art -- and sharing these on the web</description>
+        <level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Squeak</name>
+		<category>Computer-Skills</category>
+		<description>Squeak is a full-featured implementation of the Smalltalk programming language and environment based on the original Smalltalk-80 system.</description>
+		<level>Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Stellarium</name>
+		<category>Science</category>
+		<description>Stellarium renders 3D photo-realistic skies in real-time. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.</description>
+		<level>Primary Secondary Third</level>
+		
+	</software>
+	
+	<software> 
+		<name>Step</name>
+		<category>Science</category>
+		<description>With Step you can not only learn but feel how physics works. You place some bodies on the scene, add some forces 
+		such as gravity or springs, then click "Simulate" and Step shows you how your scene will evolve according to the laws of physics.</description>
+		<level>Secondary Third</level>
+
+	</software>
+	
+	<software> 
+		<name>Tux-math</name>
+		<category>Numeracy</category>
+		<description>TuxMath is an educational arcade game starring Tux, the Linux mascot! Based on the classic arcade game 
+				"Missile Command," Tux must defend his cities. In this case, though, he must do it by solving math problems</description>
+		<level>Primary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Tux-paint</name>
+		<category>Art</category>
+		<description>Tux Paint is meant to be a simple drawing program for young children.  It is not meant as a general-purpose drawing tool.
+		</description>
+		<level>Primary</level>
+		
+	</software>
+	
+	<software> 
+		<name>Tux-type</name>
+		<category>Computer-Skills</category>
+		<description>TuxTyping is an educational typing tutorial game starring Tux, the Linux Penguin. The player guides Tux to eat fish 
+			which are falling from the top of the screen. Each fish has a letter written on it. When the player presses the corresponding key, Tux will position himself to eat the fish
+			</description>
+		<level>Primary</level>
+		
+	</software>
+	
+	<software> 
+		<name>VLC-Player</name>
+		<category>Media</category>
+		<description>VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files 
+                        as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
+                    </description>
+        <level>Secondary Third</level>
+		
+	</software>
+
+
+
+
+
+
+
+
+
+</resource>
